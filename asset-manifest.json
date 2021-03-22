@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RangeSliderView/static/css/main.836709f2.chunk.css",
+    "main.js": "/RangeSliderView/static/js/main.885f6136.chunk.js",
+    "main.js.map": "/RangeSliderView/static/js/main.885f6136.chunk.js.map",
+    "runtime-main.js": "/RangeSliderView/static/js/runtime-main.1a381a02.js",
+    "runtime-main.js.map": "/RangeSliderView/static/js/runtime-main.1a381a02.js.map",
+    "static/js/2.3ab169df.chunk.js": "/RangeSliderView/static/js/2.3ab169df.chunk.js",
+    "static/js/2.3ab169df.chunk.js.map": "/RangeSliderView/static/js/2.3ab169df.chunk.js.map",
+    "static/js/3.95f37d83.chunk.js": "/RangeSliderView/static/js/3.95f37d83.chunk.js",
+    "static/js/3.95f37d83.chunk.js.map": "/RangeSliderView/static/js/3.95f37d83.chunk.js.map",
+    "index.html": "/RangeSliderView/index.html",
+    "static/css/main.836709f2.chunk.css.map": "/RangeSliderView/static/css/main.836709f2.chunk.css.map",
+    "static/js/2.3ab169df.chunk.js.LICENSE.txt": "/RangeSliderView/static/js/2.3ab169df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a381a02.js",
+    "static/js/2.3ab169df.chunk.js",
+    "static/css/main.836709f2.chunk.css",
+    "static/js/main.885f6136.chunk.js"
+  ]
+}
